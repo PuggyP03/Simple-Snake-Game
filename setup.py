@@ -1,8 +1,8 @@
 from setuptools import setup
-
+#Testing for push
 setup(
     name='Snake-Game-Package',
-    version='0.1.0',
+    version='0.1.2',
     py_modules=['game'],
     description='A simple snake game',
     author='Anthony Venable',
