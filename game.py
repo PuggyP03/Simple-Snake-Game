@@ -5,7 +5,6 @@ import random
 
 # Adding Comment to test automatied pipline <-------
 
-Sample = 23
 
 # Initialising Dimensions of Game 
 WIDTH = 500
