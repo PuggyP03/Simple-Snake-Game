@@ -140,7 +140,7 @@ def game_over():
 
 # Giving title to the gaming window 
 
-
+"""
 window = Tk() 
 window.title("Snake Game") 
 
@@ -184,6 +184,6 @@ food = Food()
 
 next_turn(snake, food) 
 
-window.mainloop() 
+window.mainloop()  """
 
 # This code is contributed by genius_general 
